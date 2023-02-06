@@ -1,4 +1,4 @@
-public interface Iterator {
+public interface Iterable {
 
     boolean hasNext();
 
