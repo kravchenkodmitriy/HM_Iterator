@@ -1,4 +1,4 @@
-public interface Iterable {
+public interface IterableRandom{
 
     boolean hasNext();
 
